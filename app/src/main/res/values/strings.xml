@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo07_SQLite</string>
+    <string name="title_main">SQLite Managing</string>
+</resources>
